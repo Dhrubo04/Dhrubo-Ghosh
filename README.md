@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dhrubo Ghosh 
 **Electronics & Software Engineer** | IoT & ML Enthusiast | Problem Solver  
-📍 Kolkata, India | 🔗 [LinkedIn]([https://linkedin.com/in/dhrubo-ghosh](https://www.linkedin.com/in/dhrubo-ghosh-4663a0258/))  
+📍 Kolkata, India | 🔗 [LinkedIn](https://www.linkedin.com/in/dhrubo-ghosh-4663a0258/)  
 
 ### 🛠️ **Tech Stack**  
 #### **Core Skills**  
@@ -33,5 +33,5 @@
 
 ### 📫 **Let’s Connect!**  
 - 📧 Email: dhruboghosh0606@gmail.com  
-- 💼 LinkedIn: [Dhrubo Ghosh]([https://linkedin.com/in/dhrubo-ghosh](https://www.linkedin.com/in/dhrubo-ghosh-4663a0258/))  
+- 💼 LinkedIn: [Dhrubo Ghosh](https://www.linkedin.com/in/dhrubo-ghosh-4663a0258/) 
 - 🏆 Certifications: Infosys Java, HackerRank 5 Star Java , Problem Solving(Intermediate) - HackerRank
