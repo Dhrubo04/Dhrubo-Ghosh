@@ -9,11 +9,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
 
 #### **IoT & Embedded**  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-FFD43B?logo=python&logoColor=blue)  
-
+![Embedded C++](https://img.shields.io/badge/Embedded_C++-00599C?logo=cplusplus&logoColor=white)
+![Edge AI (TFLite)](https://img.shields.io/badge/Edge_AI_(TFLite)-FF6F00?logo=tensorflow&logoColor=white)
 ---
 
 ### 🔥 **Featured Projects**  
