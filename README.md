@@ -12,6 +12,9 @@
          width="650">
   </figure>
 </div>
+
+---
+
 ## 👨‍💻 About Me
 
 - 🔭 Currently exploring: **IoT, Embedded Systems, Machine Learning, Data Structures and Algorithms**
