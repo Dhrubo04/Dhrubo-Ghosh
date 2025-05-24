@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dhrubo Ghosh
+# <img src="https://cdn.jsdelivr.net/gh/Dhrubo04/Dhrubo04/waving-hand.svg" width="30" height="30"> Hi, I'm Dhrubo Ghosh
 
 🎓 B.Tech in Applied Electronics & Instrumentation  
 💡 Electronics & Software Engineer | IoT & ML Enthusiast | Problem Solver  
@@ -128,9 +128,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrubo04&theme=tokyonight" alt="Dhrubo's Streak Stats"/>
-  ![Metrics](https://metrics.lecoq.io/Dhrubo04?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata)
 </p>
-
 
 ---
 
