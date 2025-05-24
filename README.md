@@ -6,7 +6,7 @@
 
 ---
 <div align="center">
-  <img src="https://www.cprime.com/wp-content/uploads/2022/12/cprime-myths-about-embedded-systems-development.jpeg" alt="Myths About Embedded Systems Development" width="800" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);">
+  <img src="[https://www.cprime.com/wp-content/uploads/2022/12/cprime-myths-about-embedded-systems-development.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fcoding-gifs-aesthetic%2F896913177658%2F&psig=AOvVaw2ngdgCkM4fAeYMLcLHppmE&ust=1748210937825000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMj67-GSvY0DFQAAAAAdAAAAABAe)" alt="Myths About Embedded Systems Development" width="800" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);">
 </div>
 
 ## 👨‍💻 About Me
