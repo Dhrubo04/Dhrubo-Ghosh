@@ -19,7 +19,7 @@
 
 - 🔭 Currently exploring: **IoT, Embedded Systems, Machine Learning, Data Structures and Algorithms**
 - 🌱 Learning: **Spring Boot, React, TinyML, TensorFlow**
-- 🤝 Open to collaborating on: **IoT + ML solutions**, impactful social-tech projects
+- 🤝 Open to collaborating on: **IoT + ML solutions**, impactful health-tech projects
 - 📫 Contact me at: **dhruboghosh0606@gmail.com**
 - 🧑‍🎓 4th Year | Heritage Institute of Technology, Kolkata
 - 🗣️ Languages: Bengali | English | Hindi
