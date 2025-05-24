@@ -59,11 +59,11 @@
 
 🚀 Featured Projects
 
-🦯 Smart Walking Stick for Parkinson’s Patients
-🦿 Detects Freezing of Gait using accelerometer + ML model
-🧭 Includes GPS tracking, pulse sensor, and fall alerts
-🔔 Provides haptic feedback + laser guidance for users
-🔗 GitHub Repo (https://github.com/Dhrubo04/WeWalk)
+>🦯 Smart Walking Stick for Parkinson’s Patients
+>🦿 Detects Freezing of Gait using accelerometer + ML model
+>🧭 Includes GPS tracking, pulse sensor, and fall alerts
+>🔔 Provides haptic feedback + laser guidance for users
+>🔗 [GitHub Repo](https://github.com/Dhrubo04/WeWalk)
 
 🧠 Brain Tumor Detection Using CNN
 🧪 Detects brain tumors from MRI scans using TensorFlow + OpenCV
@@ -74,7 +74,7 @@
 🗺️ Built with Flask + Google Maps API
 🚏 Tracks buses in real time and optimizes routes
 🔍 Integrates ML to predict and reduce travel delays
-🔗 GitHub Repo (https://github.com/Dhrubo04/Dynamic-Route-Rationalization-model)
+🔗 [GitHub Repo](https://github.com/Dhrubo04/Dynamic-Route-Rationalization-model)
 
 ---
 
