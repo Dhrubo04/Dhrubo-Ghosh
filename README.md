@@ -87,7 +87,8 @@
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dhrubo04&theme=github-compact)
+![Dhrubo's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhrubo04&theme=github-compact)
+
 
 ---
 
