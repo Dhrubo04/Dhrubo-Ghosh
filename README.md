@@ -8,11 +8,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently exploring: **Edge AI, Embedded Systems, TensorFlow**
-- 🌱 Learning: **Spring Boot, React, TinyML**
+- 🔭 Currently exploring: **IoT, Embedded Systems, Machine Learning, Data Structures and Algorithms**
+- 🌱 Learning: **Spring Boot, React, TinyML, TensorFlow **
 - 🤝 Open to collaborating on: **IoT + ML solutions**, impactful social-tech projects
 - 📫 Contact me at: **dhruboghosh0606@gmail.com**
-- 🧑‍🎓 3rd Year | Heritage Institute of Technology, Kolkata
+- 🧑‍🎓 4th Year | Heritage Institute of Technology, Kolkata
 - 🗣️ Languages: Bengali | English | Hindi
 
 ---
@@ -57,18 +57,24 @@
 
 ---
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
-### 🧠 Brain Tumor Detection Using CNN
-> TensorFlow + OpenCV-based MRI classification with web front-end using Anvil & backend on Colab
+🦯 Smart Walking Stick for Parkinson’s Patients
+🦿 Detects Freezing of Gait using accelerometer + ML model
+🧭 Includes GPS tracking, pulse sensor, and fall alerts
+🔔 Provides haptic feedback + laser guidance for users
+🔗 GitHub Repo (https://github.com/Dhrubo04/WeWalk)
 
-### 🦯 Smart Walking Stick for Parkinson’s Patients
-> Detects “Freezing of Gait” using accelerometers + ML  
-> GPS tracking, pulse monitoring & haptic feedback
+🧠 Brain Tumor Detection Using CNN
+🧪 Detects brain tumors from MRI scans using TensorFlow + OpenCV
+🌐 Frontend built with Anvil, backend hosted on Google Colab
+📦 Real-time predictions through a simple web interface
 
-### 🚌 Dynamic Route Rationalisation Model
-> Traffic-aware routing via Flask + Google Maps API  
-> Real-time bus tracking for public transport optimization
+🚌 Dynamic Route Rationalisation Model
+🗺️ Built with Flask + Google Maps API
+🚏 Tracks buses in real time and optimizes routes
+🔍 Integrates ML to predict and reduce travel delays
+🔗 GitHub Repo (https://github.com/Dhrubo04/Dynamic-Route-Rationalization-model)
 
 ---
 
