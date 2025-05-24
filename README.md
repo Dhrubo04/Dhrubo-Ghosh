@@ -1,13 +1,13 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Dhrubo Ghosh
 
-<div align="center">
-  <img src="https://www.cprime.com/wp-content/uploads/2022/12/cprime-myths-about-embedded-systems-development.jpeg" alt="Myths About Embedded Systems Development" width="600" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);">
-</div>
-
 🎓 B.Tech in Applied Electronics & Instrumentation  
 💡 Electronics & Software Engineer | IoT & ML Enthusiast | Problem Solver  
 📍 Kolkata, India | 🌐 [LinkedIn](https://www.linkedin.com/in/dhrubo-ghosh-4663a0258) | 💼 [GitHub](https://github.com/Dhrubo04)
 
+---
+<div align="center">
+  <img src="https://www.cprime.com/wp-content/uploads/2022/12/cprime-myths-about-embedded-systems-development.jpeg" alt="Myths About Embedded Systems Development" width="800" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);">
+</div>
 ---
 
 ## 👨‍💻 About Me
