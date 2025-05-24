@@ -1,4 +1,4 @@
-# <img src="https://cdn.jsdelivr.net/gh/Dhrubo04/Dhrubo04/waving-hand.svg" width="30" height="30"> Hi, I'm Dhrubo Ghosh
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Dhrubo Ghosh
 
 🎓 B.Tech in Applied Electronics & Instrumentation  
 💡 Electronics & Software Engineer | IoT & ML Enthusiast | Problem Solver  
