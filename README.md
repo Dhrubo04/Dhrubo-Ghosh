@@ -19,33 +19,50 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
+### 🔠 **Languages**
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔠 **Programming Languages**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css" alt="Programming Languages"/>
-</p>
+</div>
 
 ### 🧰 **Frameworks & Libraries**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,tensorflow,flask,opencv" alt="Frameworks & Libraries"/>
-</p>
+<div align="center">
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+</div>
 
 ### 🗃️ **Databases & DevOps**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman" alt="Databases & DevOps"/>
-</p>
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-%23005571.svg?style=for-the-badge)
+
+</div>
 
 ### 🎛️ **Embedded & IoT**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Embedded & IoT"/>
-</p>
+<div align="center">
 
-### ☁️ **Cloud & APIs**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,firebase,rest" alt="Cloud & APIs"/>
-</p>
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-%232C3E50.svg?style=for-the-badge&logo=python&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-%235C6BC0.svg?style=for-the-badge&logo=c&logoColor=white)
 
+</div>
 ---
 
 
@@ -111,29 +128,9 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrubo04&theme=tokyonight" alt="Dhrubo's Streak Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhrubo04&layout=compact&theme=tokyonight" alt="Coding Activity"/>
+  ![Metrics](https://metrics.lecoq.io/Dhrubo04?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FKolkata)
 </p>
 
----
-
-## 🏅 Skill Metrics
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,tensorflow,spring,react,arduino,raspberrypi,mongodb,mysql,git,github" alt="Technical Skills"/>
-</p>
-
----
-
-## 📌 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR #5 in WeWalk repository
-2. 🚀 Pushed 3 commits to Dynamic-Route-Rationalization-model
-3. 💪 Opened issue #12 in Brain-Tumor-Detection
-4. 🛠️ Contributed to open-source project XYZ
-<!--END_SECTION:activity-->
-
-*Note: Enable GitHub Actions to show real activity*
 
 ---
 
