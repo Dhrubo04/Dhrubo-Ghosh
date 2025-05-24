@@ -8,7 +8,6 @@
 <div align="center">
   <img src="https://www.cprime.com/wp-content/uploads/2022/12/cprime-myths-about-embedded-systems-development.jpeg" alt="Myths About Embedded Systems Development" width="800" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1);">
 </div>
----
 
 ## 👨‍💻 About Me
 
