@@ -9,8 +9,7 @@
   <figure>
     <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" 
          alt="Coding Workflow GIF"
-         width="450">
-    <figcaption><em>My development workflow</em></figcaption>
+         width="650">
   </figure>
 </div>
 ## 👨‍💻 About Me
