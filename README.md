@@ -98,5 +98,57 @@
 
 ---
 
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrubo04&theme=tokyonight" alt="Dhrubo's Streak Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dhrubo04&layout=compact&theme=tokyonight" alt="Coding Activity"/>
+</p>
+
+---
+
+## 🏅 Skill Metrics
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,tensorflow,spring,react,arduino,raspberrypi,mongodb,mysql,git,github" alt="Technical Skills"/>
+</p>
+
+---
+
+## 📌 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR #5 in WeWalk repository
+2. 🚀 Pushed 3 commits to Dynamic-Route-Rationalization-model
+3. 💪 Opened issue #12 in Brain-Tumor-Detection
+4. 🛠️ Contributed to open-source project XYZ
+<!--END_SECTION:activity-->
+
+*Note: Enable GitHub Actions to show real activity*
+
+---
+
+## 🌟 Repository Highlights
+
+<p align="center">
+  <a href="https://github.com/Dhrubo04/WeWalk">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhrubo04&repo=WeWalk&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Dhrubo04/Dynamic-Route-Rationalization-model">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dhrubo04&repo=Dynamic-Route-Rationalization-model&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 🕒 Weekly Development Breakdown
+
+```text
+Python       ████████████████████░░░░   80% 
+Java         ██████████░░░░░░░░░░░░░   40%
+C++          ████████░░░░░░░░░░░░░░░   35%
+JavaScript   █████░░░░░░░░░░░░░░░░░░   20%
+Other        ██░░░░░░░░░░░░░░░░░░░░░   10%
+
 > 💬 *“Don't leave my GitHub without giving ⭐ to the repos you like!”*
 
