@@ -1,40 +1,79 @@
-# 👋 Hi, I'm Dhrubo Ghosh 
-**Electronics & Software Engineer** | IoT & ML Enthusiast | Problem Solver  
-📍 Kolkata, India | 🔗 [LinkedIn](https://www.linkedin.com/in/dhrubo-ghosh-4663a0258/)  
+# 👋 Hi, I'm Dhrubo Ghosh
 
-### 🛠️ **Tech Stack**  
-#### **Core Skills**  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?logo=opencv&logoColor=white)
-
-#### **IoT & Embedded**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-FFD43B?logo=python&logoColor=blue)  
-![Embedded C++](https://img.shields.io/badge/Embedded_C++-00599C?logo=cplusplus&logoColor=white)
-![Edge AI (TFLite)](https://img.shields.io/badge/Edge_AI_(TFLite)-FF6F00?logo=tensorflow&logoColor=white)
----
-
-### 🔥 **Featured Projects**  
-#### 🧠 [Brain Tumor Detection Using CNN](https://github.com/yourusername/brain-tumor-detection)  
-- TensorFlow + OpenCV model for MRI analysis.  
-- Web interface with Anvil, hosted on Google Colab.  
-
-#### 🦯 [Smart Walking Stick for Parkinson’s Patients](https://github.com/yourusername/smart-walking-stick)  
-- IoT-enabled stick with gait-freezing detection (accelerometers + ML).  
-- GPS tracking, fall alerts, and haptic feedback.  
-
-#### 🚌 [Dynamic Route Rationalisation Model](https://github.com/yourusername/traffic-optimization)  
-- Flask + Google Maps API for traffic-aware routing.  
-- Real-time bus tracking for government use.  
+🎓 B.Tech in Applied Electronics & Instrumentation  
+💡 Electronics & Software Engineer | IoT & ML Enthusiast | Problem Solver  
+📍 Kolkata, India | 🌐 [LinkedIn](https://www.linkedin.com/in/dhrubo-ghosh-4663a0258) | 💼 [GitHub](https://github.com/Dhrubo04)
 
 ---
 
-### 📫 **Let’s Connect!**  
-- 📧 Email: dhruboghosh0606@gmail.com  
-- 💼 LinkedIn: [Dhrubo Ghosh](https://www.linkedin.com/in/dhrubo-ghosh-4663a0258/) 
-- 🏆 Certifications: Infosys Java, HackerRank 5 Star Java , Problem Solving(Intermediate) - HackerRank
+## 👨‍💻 About Me
+
+- 🔭 Currently exploring: **Edge AI, Embedded Systems, TensorFlow**
+- 🌱 Learning: **Spring Boot, React, TinyML**
+- 🤝 Open to collaborating on: **IoT + ML solutions**, impactful social-tech projects
+- 📫 Contact me at: **dhruboghosh0606@gmail.com**
+- 🧑‍🎓 3rd Year | Heritage Institute of Technology, Kolkata
+- 🗣️ Languages: Bengali | English | Hindi
+
+---
+
+## 🔧 Tech Stack
+
+**Languages & Tools**  
+`Java` `Python` `C++` `SQL` `HTML` `CSS` `JavaScript`  
+`TensorFlow` `Spring Boot` `React` `MicroPython` `OpenCV` `Flask`  
+`Git` `REST API` `MongoDB` `MySQL` `Arduino` `Anvil`
+
+**Specialties**  
+- 🧠 Machine Learning & Computer Vision  
+- 🔌 IoT & Embedded Systems  
+- ⚙️ Automation & Instrumentation  
+- 🧰 Edge AI, DSP, Control Systems
+
+---
+
+## 🏆 Certifications & Platforms
+
+- ✅ **Java Foundation** – Infosys Springboard  
+- ⭐ 5-Star Java & Intermediate Problem Solving – HackerRank  
+- 💻 [LeetCode Profile](https://leetcode.com/u/7QHlvdWbAY/)  
+- 🧑‍💻 [HackerRank Profile](https://www.hackerrank.com/profile/dhruboghosh0606)
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Brain Tumor Detection Using CNN
+> TensorFlow + OpenCV-based MRI classification with web front-end using Anvil & backend on Colab
+
+### 🦯 Smart Walking Stick for Parkinson’s Patients
+> Detects “Freezing of Gait” using accelerometers + ML  
+> GPS tracking, pulse monitoring & haptic feedback
+
+### 🚌 Dynamic Route Rationalisation Model
+> Traffic-aware routing via Flask + Google Maps API  
+> Real-time bus tracking for public transport optimization
+
+---
+
+## 📊 GitHub Stats
+
+![Dhrubo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhrubo04&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhrubo04&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dhrubo04&theme=onestar)](https://github.com/Dhrubo04)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dhrubo04&theme=github-compact)
+
+---
+
+> 💬 *“Don't leave my GitHub without giving ⭐ to the repos you like!”*
+
