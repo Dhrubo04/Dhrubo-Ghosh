@@ -164,5 +164,7 @@ C++          ████████░░░░░░░░░░░░░░�
 JavaScript   █████░░░░░░░░░░░░░░░░░░   20%
 Other        ██░░░░░░░░░░░░░░░░░░░░░   10%
 
+![Profile views](https://countapi.xyz/hit/Dhrubo04/github-profile-visits/badge.svg)
+
 > 💬 *“Don't leave my GitHub without giving ⭐ to the repos you like!”*
 
